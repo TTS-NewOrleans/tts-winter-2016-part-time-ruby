@@ -34,7 +34,7 @@ class Cup # use Title case
   end
 
   def beer_bong
-    puts "CHUG CHUG CHUG!!!!!"
+    puts "CHUG CHUG CHUG!!!!!!!!"
     @drink_amount = 0
   end
 end
